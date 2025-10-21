@@ -123,7 +123,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Pila.cpp" />
     <ClCompile Include="Pilas_Cpp.cpp" />
     <ClCompile Include="URL.cpp" />
   </ItemGroup>
